@@ -34,7 +34,7 @@ export default function Profile(){
                     data-aos-duration="1000"
                     >
                         <div className='min-w-[300px] min-h-[300px] bg-gradient pt-[50px] rounded-full overflow-hidden'>
-                            <img src="/images/deka01.png" alt="" />
+                            <img src="images/deka01.png" alt="" />
                         </div>
                         <h2 className='text-gradient text-[30px] mt-[20px]'>Angga Dwi Kurniawan</h2>
                         {/* <div>
