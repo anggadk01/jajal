@@ -11,7 +11,7 @@ export default function Header(){
             data-aos-easing="ease-in-sine"
             data-aos-duration="500"
             data-aos-delay="0">
-                <a href="/">
+                <a>
                     <h1 className="text-[30px] leading-none font-bold">
                         ANGGA
                         </h1>
