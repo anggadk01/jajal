@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jajal/static/css/main.c8ca9bc5.css",
+    "main.js": "/jajal/static/js/main.d8663e96.js",
+    "static/js/787.354e309c.chunk.js": "/jajal/static/js/787.354e309c.chunk.js",
+    "static/media/mainbg.jpeg": "/jajal/static/media/mainbg.8cf0e80f2b01d8a0e028.jpeg",
+    "index.html": "/jajal/index.html",
+    "main.c8ca9bc5.css.map": "/jajal/static/css/main.c8ca9bc5.css.map",
+    "main.d8663e96.js.map": "/jajal/static/js/main.d8663e96.js.map",
+    "787.354e309c.chunk.js.map": "/jajal/static/js/787.354e309c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8ca9bc5.css",
+    "static/js/main.d8663e96.js"
+  ]
+}
